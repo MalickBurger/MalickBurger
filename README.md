@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Malick Burgers's github stats](https://github-readme-stats.vercel.app/api?username=MalickBurger&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MalickBurger/MalickBurger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
